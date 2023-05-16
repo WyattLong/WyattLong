@@ -2,7 +2,7 @@
 
 **`Transforming Creative Ideas into Digital Realities`**
 
-I am a Developer with a Bachelor's Degree in Computer Science from [_Oklahoma City University_](https://www.okcu.edu/), bringing my brand to the world. From the planning to the final product, my projects are entirely my own. I approach all aspects in life with the same mindset because uniqueness and originality are key to making an idea stand out. You can find more in-depth explanations and tutorials of these projects on my Youtube Channel "[long.w](https://www.youtube.com/@long.w)" or see what I am up to by following my Instagram "[_.wlong](https://www.instagram.com/_.wlong/)".
+I am a Developer with a Bachelor's Degree in Computer Science from [_Oklahoma City University_](https://www.okcu.edu/), bringing my brand to the world. From the planning to the final product, my projects are entirely my own. I approach all aspects in life with the same mindset because uniqueness and originality are key to making an idea stand out. You can follow my coding journey on my Youtube Channel "[long.w](https://www.youtube.com/@long.w)" or see what I am up to by following my Instagram "[_.wlong](https://www.instagram.com/_.wlong/)".
 
 <p align="left">
     <a href="https://github.com/WyattLong?tab=followers">
