@@ -2,7 +2,7 @@
 
 **`Transforming Creative Ideas into Digital Realities`**
 
-I am a Developer with a Bachelor's Degree in Computer Science from [_Oklahoma City University_](https://www.okcu.edu/). Welcome to my Github! You can also follow my coding journey on my Youtube Channel "[long.w](https://www.youtube.com/@long.w)" or see what I am up to by following my Instagram "[_.wlong](https://www.instagram.com/_.wlong)".
+I am a Developer with a Bachelor's Degree in Computer Science from [_Oklahoma City University_](https://www.okcu.edu/). Welcome to my Github!
 
 <p align="left">
     <a href="https://github.com/WyattLong?tab=followers">
